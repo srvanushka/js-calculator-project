@@ -1,3 +1,3 @@
 # JS Calculator Project
 
-Replace Me
+My first project 😊
